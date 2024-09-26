@@ -1,6 +1,5 @@
 - Hi, I’m @ATKcodes 👋
 - I’m currently studying at 42Rome 📖
-- You can reach me on slack at "amaso" 📱
 - Passionate about : Coding ⌨️ 🖱️and Esport 🎧
 
 <!---
